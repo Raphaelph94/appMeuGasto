@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">App_meugasto</string>
+    <string-array name="meses">
+        <item>janeiro</item>
+        <item>fevereiro</item>
+        <item>marco</item>
+        <item>abril</item>
+        <item>maio</item>
+        <item>junho</item>
+        <item>agosto</item>
+        <item>setembro</item>
+        <item>outubro</item>
+        <item>novembro</item>
+        <item>dezembro</item>
+    </string-array>
+</resources>
